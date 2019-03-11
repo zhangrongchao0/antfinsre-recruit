@@ -19,11 +19,9 @@
 工作内容时刻体现在CTO/合伙人周报里面
 
 对外相关新闻：
-
 新春红包场景下亿级流量保障大揭秘 https://tech.antfin.com/activities/216
 西湖梁朝伟教你选口红色号 https://mp.weixin.qq.com/s/g-aVatdCRWR1EphcS3kgSg 
 蚂蚁金服TRaaS技术风险防控平台解密 https://mp.weixin.qq.com/s/RX_63WILQpd__DvzqdGwxA
-
 
 ## 面试经验
 我是2016年校招入的蚂蚁，有很多经验可以分享。
@@ -33,4 +31,5 @@
 
 答疑群（当前群1已满100人，特别新开了另一个群大家可以继续扫描加入）
 （进群请备注：学校+毕业时间+姓名）
+
  ![image](https://github.com/zhangrongchao0/antfinsre-recruit/blob/master/weixinma.png)
