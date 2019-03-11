@@ -33,4 +33,4 @@
 
 答疑群（当前群1已满100人，特别新开了另一个群大家可以继续扫描加入）
 （进群请备注：学校+毕业时间+姓名）
- ![image](https://github.com/zhangrongchao0/antfinsre-recruit/master/screenshots/screenshot.png)
+ ![image](https://github.com/zhangrongchao0/antfinsre-recruit/blob/master/2031770_1552287451191_4442EB90E0669A7D226B0643D152F15C.png)
