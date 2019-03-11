@@ -33,4 +33,4 @@
 
 答疑群（当前群1已满100人，特别新开了另一个群大家可以继续扫描加入）
 （进群请备注：学校+毕业时间+姓名）
-https://uploadfiles.nowcoder.com/images/20190311/2031770_1552287451191_4442EB90E0669A7D226B0643D152F15C
+![avatar](https://uploadfiles.nowcoder.com/images/20190311/2031770_1552287451191_4442EB90E0669A7D226B0643D152F15C)
