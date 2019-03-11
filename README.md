@@ -32,4 +32,4 @@
 答疑群（当前群1已满100人，特别新开了另一个群大家可以继续扫描加入）
 （进群请备注：学校+毕业时间+姓名）
 
- ![image](https://github.com/zhangrongchao0/antfinsre-recruit/blob/master/weixinma.png)
+ ![image](https://github.com/zhangrongchao0/antfinsre-recruit/master/weixinma.png)
